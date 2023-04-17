@@ -20,4 +20,4 @@
 * Hackintosh's, iOS jailbreaks.
 * breaking software such as windows, linux, macOS and creating error payloads
 * Is learning python, haskel and C++
-* And other stuff that i do
+* And other stuff that i dio
