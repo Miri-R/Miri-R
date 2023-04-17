@@ -14,7 +14,6 @@
  </p>
 <p align="center">
     <a href="https://discord.id/?prefill=754074034924290070">Add me on Discord!</a>
-    <a [Embed Title](https://discord.com/user/754074034924290070) 
 </p>
 
 ## What I do!
