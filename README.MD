@@ -1,7 +1,8 @@
 
 <h1 align="center">
   <br>
-  Miri Roi
+  Sleepy Souls
+  Shifu
   <br>
 </h1>
 <h4 align="center">A furry who has no life and likes breaking random software</a>.</h4>
