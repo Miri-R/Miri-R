@@ -11,14 +11,14 @@
   <a >Furry</a> •
   <a >Pan</a> •
   <a >Arch linux user</a> •
-  <a >16</a> 
+  <a >19</a> 
  </p>
 <p align="center">
-    <a href="https://discord.id/?prefill=754074034924290070">Add me on Discord!</a>
+    <a href="https://discord.id/?prefill=809893424131211325">Add me on Discord!</a>
 </p>
 
 ## What I do!
-* Hackintosh's, iOS jailbreaks.
-* breaking software such as windows, linux, macOS and creating error payloads
+* Hackintosh, iOS jailbreaks.
+* breaking software such as Windows, linux, macOS and creating error payloads
 * Is learning python, haskel and C++
-* And other stuff that i dio
+* And other stuff that I do
